@@ -1,0 +1,13 @@
+package spring.crudexamplewithjs;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CrudexamplewithjsApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CrudexamplewithjsApplication.class, args);
+	}
+
+}
